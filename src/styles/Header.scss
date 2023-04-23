@@ -24,5 +24,8 @@ nav {
                 color: $third;
             }
         }
+        > active-link{
+            color: aquamarine;
+        }
     }
 }
